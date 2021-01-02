@@ -18,5 +18,5 @@ int main() {
 	else{
 		printf("wrong input need to be: {a,b}");
 	}
-	
+	return 0;
 }

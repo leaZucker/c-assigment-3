@@ -24,5 +24,5 @@ int main(void) {
 			printf("%d,",*(arry+j));
 		}
 	}
-	return 1;
+	return 0;
 }
